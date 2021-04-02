@@ -5,7 +5,7 @@
 [![Support](https://img.shields.io/badge/support-laravel-orange.svg)](https://laravel.com/)
 [![Release](https://img.shields.io/badge/release-3.0.0-orange.svg)](https://github.com/Germey/LaravelGeetest/releases)
 
-Laravel Geetest is a package for Laravel 5 developed by [Germey](http://cuiqingcai.com). It provides simple usage for laravel of [Geetest](http://www.geetest.com/). 
+Laravel Geetest is a package for Laravel 5-8 developed by [Germey](http://cuiqingcai.com). It provides simple usage for laravel of [Geetest](http://www.geetest.com/). 
 
 Geetest Demo: [Geetest](https://www.geetest.com/show)
 
@@ -20,13 +20,13 @@ For Geetest 2.0, please see [LaravelGeetest 2.0](https://github.com/Germey/Larav
 To get the latest version of Laravel Geetest, simply require the project using Composer:
 
 ```
-$ composer require germey/geetest
+$ composer require fengbingji/geetest
 ```
 
 Or you can add following to `require` key in `composer.json`:
 
 ```json
-"germey/geetest": "~3.0"
+"fengbingji/geetest": "~3.0"
 ```
 
 then run:
